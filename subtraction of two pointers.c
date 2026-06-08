@@ -9,7 +9,6 @@ scanf("%d",&a);
 printf("enter value for b:");
 scanf("%d",&b);
 printf("ptr1=%d,ptr2=%d",ptr1,ptr2);
-printf("%d",ptr1-ptr2);
+printf("\ndifference= %d",ptr1-ptr2);
 return 0;
 }
-
